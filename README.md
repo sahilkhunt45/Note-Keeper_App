@@ -1,4 +1,4 @@
-# note_keeper_app
+# Note_keeper_app || Firebase
 
 A new Flutter project.
 
